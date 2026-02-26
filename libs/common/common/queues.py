@@ -4,7 +4,7 @@
 ALERTING_PUBSUB = "alerting"
 ALERTING_NEW_ALERT_TOPIC = "new_alert"
 
-DOCUMENT_CONVERSION_PUBSUB = "document_conversion"
+DOCUMENT_CONVERSION_PUBSUB = "document-conversion"
 DOCUMENT_CONVERSION_INPUT_TOPIC = "document_conversion_input"
 DOCUMENT_CONVERSION_OUTPUT_TOPIC = "document_conversion_output"
 
@@ -24,5 +24,5 @@ NOSEYPARKER_PUBSUB = "noseyparker"
 NOSEYPARKER_INPUT_TOPIC = "noseyparker_input"
 NOSEYPARKER_OUTPUT_TOPIC = "noseyparker_output"
 
-WORKFLOW_MONITOR_PUBSUB = "workflow_monitor"
+WORKFLOW_MONITOR_PUBSUB = "workflow-monitor"
 WORKFLOW_MONITOR_COMPLETED_TOPIC = "workflow_completed"
